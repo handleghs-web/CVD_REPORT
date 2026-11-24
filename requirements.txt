@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+openpyxl
+python-docx
+xlrd
+tkinterdnd2
+pdfplumber
+pillow
+pytesseract
+pymupdf
